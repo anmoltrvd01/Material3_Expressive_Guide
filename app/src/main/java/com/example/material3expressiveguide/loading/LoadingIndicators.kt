@@ -9,5 +9,6 @@ import androidx.compose.ui.Modifier
 fun LoadingIndicators(modifier: Modifier = Modifier){
     CircularProgressIndicator()
     LoadingIndicators()
-    
+
+
 }
